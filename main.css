@@ -1,0 +1,76 @@
+.responsive{
+  width: 110%;
+  height: auto;
+  margin: -8px;
+  margin-right: -8px;
+  margin-bottom: -8px;    
+  z-index: -1;
+}
+
+.shoppinglist{
+    z-index: 1;
+}
+
+.container {
+  position: relative;
+  text-align: center;
+    font-family: 'Caveat', cursive;
+    font-size: 30px;
+}
+
+.centered {
+  position: absolute;
+  top: 47.6%;
+  left: 58.3%;
+  transform: translate(-50%, -50%);
+    color: darkred;
+}
+.centeredOne {
+  position: absolute;
+  top: 51.65%;
+  left: 58%;
+  transform: translate(-50%, -50%);
+    color: darksalmon;
+}
+.centeredTwo {
+  position: absolute;
+  top: 56%;
+  left: 58%;
+  transform: translate(-50%, -50%);
+    color:darkgoldenrod;
+}
+.centeredThree {
+  position: absolute;
+  top: 60%;
+  left: 58.3%;
+  transform: translate(-50%, -50%);
+    color:green;
+}
+.centeredFour {
+  position: absolute;
+  top: 64.15%;
+  left: 58%;
+  transform: translate(-50%, -50%);
+    color:blue;
+}
+.centeredFive {
+  position: absolute;
+  top: 68.3%;
+  left: 59.5%;
+  transform: translate(-50%, -50%);
+    color:mediumpurple;
+}
+.centeredSix {
+  position: absolute;
+  top: 72.4%;
+  left: 58.3%;
+  transform: translate(-50%, -50%);
+    color:saddlebrown;
+}
+.centeredSeven {
+  position: absolute;
+  top: 76.4%;
+  left: 58%;
+  transform: translate(-50%, -50%);
+    color: black;
+}
