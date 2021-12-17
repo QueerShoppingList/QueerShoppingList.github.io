@@ -43,10 +43,10 @@ font-family:'Archivo Narrow', sans-serif;
     display: inline-block;
   position: absolute;
   top: 26%;
-  left:64.5%;
+  left:60%;
     font-size: 2.5vw;
 font-family:'Archivo', sans-serif, bold;
-  margin-right: -20px;
+  margin-right: -60px;
     color: antiquewhite;
 }
 .textBody{
