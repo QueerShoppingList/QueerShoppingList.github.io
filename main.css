@@ -1,0 +1,270 @@
+.responsive{
+  width: 150%;
+  height: auto;
+  margin: -8px;
+  margin-right: -8px;
+  margin-bottom: -8px;    
+  z-index: -1;
+}
+.title{
+  position: absolute;
+  top: 5%;
+  left:4%;
+    font-size: 5vw;
+font-family: 'Archivo Narrow', sans-serif;
+    color: antiquewhite;
+}
+.subtitle{
+  position: absolute;
+  top: 16.5%;
+  left:4.25%;
+    font-size: 2vw;
+font-family: 'Libre Baskerville', serif;
+    color: antiquewhite;
+}
+.nav{
+  position: absolute;
+  top: 18%;
+  left:139%;
+    font-size: 2vw;
+font-family:'Archivo Narrow', sans-serif;
+    color: antiquewhite;
+}
+
+.navOne{
+  position: absolute;
+  top: 18%;
+  left:130%;
+    font-size: 2vw;
+font-family:'Archivo Narrow', sans-serif;
+    color: antiquewhite;
+}
+.frameOne{
+  position: absolute;
+  top: 38%;
+  left:10%;
+ 
+}
+.frameTwo{
+  position: absolute;
+  top: 38%;
+  left:56.3%;
+   
+}
+.frameThree{
+  position: absolute;
+  top: 38%;
+  left:103%;
+    
+}
+.item{
+    width: 15%;
+  position: absolute;
+  top: 87%;
+  left:14.75%;
+    transition: transform .2s; 
+}
+.item:hover {
+    transform: scale(1.2);
+    z-index: 1;
+}
+
+.itemTwo{
+    width: 17%;
+  position: absolute;
+  top: 68%;
+  left:27.5%;
+  transition: transform .2s; 
+}
+.itemTwo:hover {
+    transform: scale(1.2);
+    z-index: 1;
+}
+.itemThree{
+    width: 17%;
+  position: absolute;
+  top: 64.5%;
+  left:14.65%;
+ transition: transform .2s; 
+}
+.itemThree:hover {
+    transform: scale(1.2);
+    z-index: 1;
+}
+.itemFour{
+    width: 12.5%;
+  position: absolute;
+  top: 41%;
+  left:11.9%;
+ transition: transform .2s; 
+}
+.itemFour:hover {
+    transform: scale(1.2);
+    z-index: 1;
+}
+.itemFive{
+    width: 10.2%;
+  position: absolute;
+  top: 57%;
+  left:11.77%;
+ transition: transform .2s; 
+}
+.itemFive:hover {
+    transform: scale(1.2);
+    z-index: 1;
+} 
+.itemSix{
+    width: 20%;
+  position: absolute;
+  top: 43.9%;
+  left:22.5%;
+ transition: transform .2s; 
+}
+.itemSix:hover{
+    transform: scale(1.2);
+    z-index: 1;
+} 
+
+
+.itemSeven{
+    width: 10%;
+  position: absolute;
+  top: 47.5%;
+  left: 61%;
+ transition: transform .2s; 
+}
+.itemSeven:hover{
+    transform: scale(1.2);
+    z-index: 1;
+} 
+.itemEight{
+    width: 17%;
+  position: absolute;
+  top: 69%;
+  left: 57.55%;
+ transition: transform .2s; 
+}
+.itemEight:hover{
+    transform: scale(1.2);
+    z-index: 1;
+} 
+.itemNine{
+    width: 17%;
+  position: absolute;
+  top: 37.4%;
+  left: 76%;
+ transition: transform .2s; 
+}
+.itemNine:hover{
+    transform: scale(1.2);
+    z-index: 1;
+} 
+.itemTen{
+    width: 16%;
+  position: absolute;
+  top: 49%;
+  left: 70%;
+ transition: transform .2s; 
+}
+.itemTen:hover{
+    transform: scale(1.2);
+    z-index: 1;
+} 
+.itemEleven{
+    width: 10%;
+  position: absolute;
+  top: 87%;
+  left: 79.2%;
+ transition: transform .2s; 
+}
+.itemEleven:hover{
+    transform: scale(1.2);
+    z-index: 1;
+} 
+.itemTwelve{
+    width: 10%;
+  position: absolute;
+  top: 90.2%;
+  left: 64%;
+ transition: transform .2s; 
+}
+.itemTwelve:hover{
+    transform: scale(1.2);
+    z-index: 1;
+} 
+
+
+
+
+
+
+
+
+
+.itemThirteen{
+    width: 14%;
+  position: absolute;
+  top: 44.5%;
+  left:106%;
+ transition: transform .2s; 
+}
+.itemThirteen:hover{
+    transform: scale(1.2);
+    z-index: 1;
+}
+.itemFourteen{
+    width: 15%;
+  position: absolute;
+  top: 42.5%;
+  left:122%;
+ transition: transform .2s; 
+}
+.itemFourteen:hover{
+    transform: scale(1.2);
+    z-index: 1;
+}
+.itemFifteen{
+    width: 15%;
+  position: absolute;
+  top: 80%;
+  left:107.5%;
+ transition: transform .2s; 
+}
+.itemFifteen:hover{
+    transform: scale(1.2);
+    z-index: 1;
+}
+.itemSixteen{
+    width: 11%;
+  position: absolute;
+  top: 63%;
+  left:115.5%;
+ transition: transform .2s; 
+}
+.itemSixteen:hover{
+    transform: scale(1.2);
+    z-index: 1;
+}
+.itemSeventeen{
+    width: 9%;
+  position: absolute;
+  top: 78%;
+  left:125%;
+ transition: transform .2s; 
+}
+.itemSeventeen:hover{
+    transform: scale(1.2);
+    z-index: 1;
+}
+.itemEighteen{
+    width: 9%;
+  position: absolute;
+  top: 70%;
+  left:107.5%;
+ transition: transform .2s; 
+}
+.itemEighteen:hover{
+    transform: scale(1.2);
+    z-index: 1;
+}
+
