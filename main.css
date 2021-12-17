@@ -43,20 +43,33 @@ font-family:'Archivo Narrow', sans-serif;
   position: absolute;
   top: 38%;
   left:10%;
- 
+ transition: transform .2s; 
 }
+.frameOne:hover{
+    transform: scale(1.2);
+    
+} 
+
 .frameTwo{
   position: absolute;
   top: 38%;
   left:56.3%;
-   
+ transition: transform .2s; 
 }
+.frameTwo:hover{
+    transform: scale(1.2);
+    
+} 
 .frameThree{
   position: absolute;
   top: 38%;
   left:103%;
-    
+ transition: transform .2s; 
 }
+.frameThree:hover{
+    transform: scale(1.2);
+    
+} 
 .item{
     width: 15%;
   position: absolute;
